@@ -1,0 +1,9 @@
+#header-app {
+  z-index: -1;
+  position: relative;
+}
+
+/* #header-logo {
+  width: 100%;
+  max-width: 498px;
+} */
