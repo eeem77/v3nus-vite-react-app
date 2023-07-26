@@ -17,7 +17,7 @@ function App() {
       <center>
         <div id="header-logo">
           <Image
-            src="v3nus-boutique-logo.png"
+            src="v3nus-boutique-logo-purple.png"
             alt="V3nus Boutique"
             width="300vw"
           />
