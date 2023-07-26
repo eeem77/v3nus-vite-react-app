@@ -37,6 +37,7 @@ const DataViewInfo = () => {
     { label: "Jackets", value: "Jackets" },
     { label: "Handbags", value: "Handbags" },
     { label: "Flannels", value: "Flannels" },
+    { label: "Pijamas", value: "Pijamas" },
   ];
 
   const onHide = () => {
